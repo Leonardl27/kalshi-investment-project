@@ -1,5 +1,6 @@
 {
     "tax_rate": 0.25,
     "kalshi_fee": 0.05,
-    "interest_rate": 0.05
+    "interest_rate": 0.05,
+    "api-key": "33c949a2-8f15-482a-bf09-ba226eac4698"
 }
