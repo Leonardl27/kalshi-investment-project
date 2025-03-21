@@ -15,3 +15,6 @@
 2025-03-20 20:15:50,353 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0}
 2025-03-20 20:16:44,258 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0}
 2025-03-20 20:17:23,702 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0}
+2025-03-20 20:34:17,062 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0, 'api_key': '33c949a2-8f15-482a-bf09-ba226eac4698', 'private_key_path': '33c949a2-8f15-482a-bf09-ba226eac4698'}
+2025-03-20 20:49:07,638 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0, 'api_key': '33c949a2-8f15-482a-bf09-ba226eac4698', 'private_key_path': '33c949a2-8f15-482a-bf09-ba226eac4698'}
+2025-03-20 20:49:08,324 - kalshi_analyzer - INFO - Analysis visualization saved to kalshi_analysis.png

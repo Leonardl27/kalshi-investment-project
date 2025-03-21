@@ -1,3 +1,40 @@
+# Python bytecode
 __pycache__/
-*.pem
-*.key
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Sensitive data
+.env
+private_key.pem
+private_keys/
+test_data/
+
+# Generated files
+*.png
+*.pdf
+*.csv
+!examples/*.csv
+
+# OS specific
+.DS_Store
+Thumbs.db

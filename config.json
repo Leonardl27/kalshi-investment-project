@@ -4,5 +4,5 @@
     "interest_rate": 0.05,
     "risk_aversion": 1.0,
     "api_key": "33c949a2-8f15-482a-bf09-ba226eac4698",
-    "private_key_path": "path/to/your/private-key.pem"
+    "private_key_path": "33c949a2-8f15-482a-bf09-ba226eac4698"
   }

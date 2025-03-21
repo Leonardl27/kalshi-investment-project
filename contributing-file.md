@@ -4,7 +4,7 @@ Thank you for considering contributing to this project! Here are some guidelines
 
 ## Code of Conduct
 
-- Be respectful and inclusive
+- Be respectful
 - Provide constructive feedback
 - Focus on the project goals
 
