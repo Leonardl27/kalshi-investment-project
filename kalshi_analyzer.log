@@ -2,3 +2,16 @@
 2025-03-18 20:26:03,726 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0, 'api_key': '33c949a2-8f15-482a-bf09-ba226eac4698', 'private_key_path': 'path/to/your/private-key.pem'}
 2025-03-18 20:26:04,108 - kalshi_analyzer - INFO - Analysis visualization saved to kalshi_analysis.png
 2025-03-18 20:26:19,239 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0, 'api_key': '33c949a2-8f15-482a-bf09-ba226eac4698', 'private_key_path': 'path/to/your/private-key.pem'}
+2025-03-18 20:44:01,550 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0, 'api_key': '33c949a2-8f15-482a-bf09-ba226eac4698', 'private_key_path': 'path/to/your/private-key.pem'}
+2025-03-18 20:44:01,551 - kalshi_analyzer - ERROR - Private key file not found: path/to/your/private-key.pem
+2025-03-18 20:44:01,551 - kalshi_analyzer - ERROR - Unexpected error: [Errno 2] No such file or directory: 'path/to/your/private-key.pem'
+2025-03-18 20:44:45,182 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0, 'api_key': '33c949a2-8f15-482a-bf09-ba226eac4698', 'private_key_path': 'path/to/your/private-key.pem'}
+2025-03-18 20:44:45,183 - kalshi_analyzer - ERROR - Private key file not found: path/to/your/private-key.pem
+2025-03-18 20:44:45,183 - kalshi_analyzer - ERROR - Unexpected error: [Errno 2] No such file or directory: 'path/to/your/private-key.pem'
+2025-03-18 20:45:07,079 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0, 'api_key': '33c949a2-8f15-482a-bf09-ba226eac4698', 'private_key_path': 'path/to/your/private-key.pem'}
+2025-03-18 20:45:07,080 - kalshi_analyzer - ERROR - Private key file not found: path/to/your/private-key.pem
+2025-03-18 20:45:07,080 - kalshi_analyzer - ERROR - Unexpected error: [Errno 2] No such file or directory: 'path/to/your/private-key.pem'
+2025-03-18 20:47:34,619 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0, 'api_key': '33c949a2-8f15-482a-bf09-ba226eac4698', 'private_key_path': 'path/to/your/private-key.pem'}
+2025-03-20 20:15:50,353 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0}
+2025-03-20 20:16:44,258 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0}
+2025-03-20 20:17:23,702 - kalshi_analyzer - INFO - Initialized KalshiInvestmentAnalyzer with config: {'tax_rate': 0.25, 'kalshi_fee': 0.05, 'interest_rate': 0.05, 'risk_aversion': 1.0}
